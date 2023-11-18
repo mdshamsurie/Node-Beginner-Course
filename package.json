@@ -1,0 +1,15 @@
+{
+  "name": "node-beginner-course",
+  "version": "1.0.0",
+  "description": "Learn Node Js Full Course for Beginner",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "shamsurie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
